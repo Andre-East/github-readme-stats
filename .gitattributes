@@ -1,3 +1,2 @@
 dist/* linguist-vendored=false
-*.yml linguist-detectable=true
-*.yml linguist-language=YAML
+
